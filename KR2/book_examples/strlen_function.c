@@ -12,7 +12,6 @@ Old version of the strlen function*/
 // }
 
 #include <stdio.h>
-
 // Corrected strlen function
 int func_strlen(char *s) {
   int i = 0;
